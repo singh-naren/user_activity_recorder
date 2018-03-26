@@ -1,0 +1,24 @@
+{
+  "name": "user_activity_manager",
+  "version": "1.0.0",
+  "description": "User activity manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "express": "*",
+    "express-session": "*",
+    "http-debug": "^0.1.2",
+    "jwt-simple": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "express-validator": "*"
+  },
+  "author": "Narendra Singh",
+  "license": "ISC"
+}
